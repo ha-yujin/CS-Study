@@ -102,4 +102,4 @@
         * 전송할 데이터가 남아있지 않고, 통신이 끝났으면 연결 종료 요청에 응한다는 의미로 Client에게 FIN 플래그를 전송한다.
         * Client는 확인했다는 메세지(ACK)를 전송한다.
 
-* Reference : [https://asfirstalways.tistory.com/356](#https://asfirstalways.tistory.com/356)
+* Reference : <https://asfirstalways.tistory.com/356>
